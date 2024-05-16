@@ -1,0 +1,16 @@
+#Create the repo on github web
+
+#Clone the repo on your local 
+git clone https://github.com/desirajusantosh/riscv.git
+
+mkdir week0
+touch setup.txt
+git add .
+git commit -m "week0"
+
+#Have your github token ready
+git push -u origin main
+
+
+sudo apt install virtualbox
+virtualbox
