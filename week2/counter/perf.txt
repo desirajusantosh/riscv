@@ -1,0 +1,7 @@
+Clock frequency = f = 1795.842 mHz
+
+Clock cycle time = t = 1/f
+
+Total clock cycles = n = 1000
+
+Total cpu time = n * t = 1000 * 1 / (1795 mHz)
